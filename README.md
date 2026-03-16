@@ -1,12 +1,8 @@
-# Youtube-controls-chapter-fame (Tampermonkey script)
-Youtube controls. Add icons Frame Forward, Frame Backward, Chapter Forward, Chapter Backward
+# Youtube-controls-chapter-fame-screenshot (Tampermonkey script)
+Youtube controls. Add icons Frame Forward, Frame Backward, Chapter Forward, Chapter Backward, Movie frame screenshot and Movie thumbnail screenshot
 
 ![icon](youtube-controls.png)
 
 code:
 https://pastebin.com/htF8b607
 
----
-Video Screenshot for Chrome https://chromewebstore.google.com/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial
-
-Screenshot for Firefox https://addons.mozilla.org/en-US/firefox/addon/youtube-screenshot-button/
