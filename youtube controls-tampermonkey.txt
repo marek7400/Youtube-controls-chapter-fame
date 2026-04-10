@@ -38,7 +38,7 @@
         style.textContent = `
             #custom-yt-controls {
                 position: absolute;
-                bottom: 70px;
+                bottom: 63px;
                 right: 25px;
                 background-color: rgba(0, 0, 0, 0.7);
                 backdrop-filter: blur(4px);
